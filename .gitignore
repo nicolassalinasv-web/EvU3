@@ -1,0 +1,15 @@
+# Clave y configuración privada.
+.env
+.env.*
+
+
+# Entorno virtual.
+venv/
+.venv/
+
+# Caché de Python.
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
